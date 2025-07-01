@@ -43,7 +43,6 @@ const Paths = () => {
                                 <Route path="sucesso" element={<EndingPage/>}/>
                                 <Route path="myproducts" element={<OrderPage/>}/>
                                 <Route path="construction" element={<BildingPage/>}/>
-                                
                             </Route>
                         </Route>             
                     </Routes>
