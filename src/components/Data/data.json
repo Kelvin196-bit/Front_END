@@ -1,0 +1,24 @@
+{
+"informacao":
+[
+  { "text": "Sobre Drip Store", "link": "/about" },
+  { "text": "Segurança", "link": "/seguranca" },
+  { "text": "Wishlist", "link": "/wishlist" },
+  { "text": "Blog", "link": "/blog" },
+  { "text": "Trabalhe conosco", "link": "/trabalhe-conosco" },
+  { "text": "Meus Pedidos", "link": "/meus-pedidos" }
+],
+"categorias":
+[
+  { "text": "Camisetas", "link": "/about" },
+  { "text": "Calças", "link": "/seguranca" },
+  { "text": "bonés", "link": "/wishlist" },
+  { "text": "Headphones", "link": "/blog" },
+  { "text": "Tênis", "link": "/trabalhe-conosco" }
+],
+"contato":
+[
+  { "text": "Av. Santos Dumont, 1510 - 1 andar - Aldeota, Fortaleza - CE, 60150-161", "link": "/endereço" },
+  { "text": "(85) 3051-3411", "link": "/telefone" }]
+}
+
