@@ -24,12 +24,13 @@
   - Busca feita com `query string` e filtragem local
 - 🛒 **Carrinho de compras local**
   - Itens armazenados localmente com opção de escolher **cor** e **tamanho**
+  - Itens com preços calculados dinâmicamente de acordo com quantidade de produtos.
 - 📦 **Filtro por preço**
   - Ordenação funcional por maior/menor valor
 - 📱 **Design responsivo**
   - Adaptado para diferentes tamanhos de tela
 - 🖼️ **Imagens dinâmicas**
-  - Produtos carregados de `/public/products`
+  - Produtos carregados via requisições HTTP com imagens disponiveis em  `/public/products`
   - Demais imagens em `src/assets`
 - 🔐 **Rotas protegidas**
   - Implementadas via componente `PrivateRoute`
