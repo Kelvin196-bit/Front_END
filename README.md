@@ -69,7 +69,8 @@ npm install
 # 4. Inicie o servidor de desenvolvimento
 npm run dev
 
-# 5. copie e cole na tela de login o email e password  cadastrados no banco de dados do projeto Back End vinculado a este projeto disponível em https://github.com/Kelvin196-bit/Back_End.
+# 5. copie e cole na tela de login o email e password.
+Eles estão cadastrados no banco de dados do projeto Back End vinculado a este projeto disponível em https://github.com/Kelvin196-bit/Back_End.
 
 > ⚠️ Este projeto ainda está em desenvolvimento e não realiza requisições de compra ao backend.
 
